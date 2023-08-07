@@ -60,5 +60,9 @@
   },
   "dependencies": {
     "@babel/core": "^7.22.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/goldEli/auto-optional-chain-extension.git"
   }
 }
