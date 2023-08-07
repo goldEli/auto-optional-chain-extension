@@ -26,7 +26,15 @@
           "when": "(resourceLangId == javascript || resourceLangId == typescript || resourceLangId == typescriptreact || resourceLangId == javascriptreact) && editorHasSelection"
         }
       ]
-    }
+    },
+    "keybindings": [
+      {
+        "command": "transformToOptionalChain",
+        "key": "ctrl+y",
+        "mac": "cmd+y",
+        "when": "(resourceLangId == javascript || resourceLangId == typescript || resourceLangId == typescriptreact || resourceLangId == javascriptreact) && editorHasSelection"
+      }
+    ]
   },
   "scripts": {
     "vscode:prepublish": "npm run compile",
