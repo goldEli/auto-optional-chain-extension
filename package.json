@@ -15,7 +15,7 @@
     "commands": [
       {
         "command": "transformToOptionalChain",
-        "title": "xxx11"
+        "title": "Replace optional"
       }
     ],
     "menus": {
