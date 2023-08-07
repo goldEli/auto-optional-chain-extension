@@ -1,4 +1,4 @@
-# auto-optional-chain-extension README
+# auto-optional-chain-extension
 
 Replace the selected text with an optional chain, supporting JavaScript and TS files
 
