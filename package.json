@@ -2,6 +2,7 @@
   "name": "auto-optional-chain-extension",
   "displayName": "auto-optional-chain-extension",
   "description": "",
+  "publisher": "miaoyu",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.81.0"
